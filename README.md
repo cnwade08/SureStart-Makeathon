@@ -1,4 +1,4 @@
-# Trash Detector Deep Learning Model
+# Automated Trash Detection Utilizing Computer Vision and Machine Learning
 Trash Detector is a Mask R-CNN model that identifies various kinds of trash in a given image.
 
 # How It Works
